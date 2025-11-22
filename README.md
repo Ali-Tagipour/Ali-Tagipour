@@ -1,22 +1,44 @@
 <!-- 🌌 بک‌گراند متحرک -->
-![Header GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100%"/>
+</p>
 
 # 🌕 علی تقی‌پور (Ali Tagipour – A.T)
 👋 سلام! من **علی تقی‌پور** هستم  
-💻 **مهندس کامپیوتر | Full-Stack Developer**  
+💻 **مهندس کامپیوتر | Full-Stack Developer | Problem Solver**
 
-I build **high-performance, scalable, and user-friendly web applications**.  
-من برنامه‌های **وب حرفه‌ای، مقیاس‌پذیر و کاربرپسند** می‌سازم که تجربهٔ عالی به کاربران ارائه دهد.  
-هدفم این است که با **کد تمیز، طراحی جذاب و UI/UX حرفه‌ای** پروژه‌های دیجیتال را به سطح حرفه‌ای برسانم.  
+I build **high-performance, scalable, and user-focused web applications**.  
+من برنامه‌های **حرفه‌ای، مقیاس‌پذیر و کاربرپسند** می‌سازم که تجربهٔ عالی، امنیت بالا و عملکرد قوی ارائه می‌دهند.  
+✨ هدفم خلق محصولاتی است که ترکیبی از **کدنویسی تمیز (Clean Code)، معماری اصولی (Software Architecture)**  
+و **UI/UX جذاب و حرفه‌ای** باشند.
 
 ---
 
 ## 🛠 زبان‌ها و فریم‌ورک‌ها | Languages & Frameworks
 - 🐍 **Python & Django**  
 - ☕ **Java**  
-- 💻 **C# & .NET**  
-- 📝 **JavaScript & TypeScript**  
-- ⚛️ **React.js & Next.js**  
+- 💻 **C# & ASP.NET Core**  
+---
+
+## 💻 تکنولوژی‌ها | Tech Stack
+
+### 👨‍💻 Programming Languages | زبان‌ها
+`Python` `C#` `Java` `JavaScript` `TypeScript`
+
+### 🎨 Frontend | فرانت‌اند  
+`HTML` `CSS` `React` `Next.js`  
+`TailwindCSS` `Bootstrap` `Redux`  
+
+### ⚙️ Backend | بک‌اند  
+`Django` `Flask` `.NET`  
+`ASP.NET Core` `NodeJS`  
+
+### 🗃 Databases | دیتابیس  
+`MySQL` `PostgreSQL` `SQL Server` `Firebase`
+
+### 🛠 Tools & Design | ابزارها و طراحی  
+`Git & GitHub` `Docker` `Qt`  
+`Adobe XD` `Figma` `Framer` `GitHub Actions`
 
 ---
 
@@ -25,48 +47,24 @@ I build **high-performance, scalable, and user-friendly web applications**.
 
 ---
 
-## 💻 تکنولوژی‌ها | Tech Stack
-
-### Programming Languages | زبان‌ها
-`Python` `C#` `Java` `JavaScript` `TypeScript`
-
-### Frontend | فرانت‌اند  
-`HTML` `CSS` `JavaScript` `TypeScript`  
-`React` `Next.js` `Nuxt.js`  
-`Angular` `TailwindCSS` `Bootstrap`  
-
-
-
-### Backend | بک‌اند  
-`Django` `Flask` `.NET` `NodeJS`  
-`ASP.NET Core` `Laravel` 
-
-
-
-### Databases | دیتابیس
-`MySQL` `Firebase`
-
-### Tools & Design | ابزارها و طراحی
-`Qt` `Ionic` `Adobe XD` `Figma` `Framer` `Canva` `GitHub Actions`
-
----
-
 ## 📊 GitHub Stats & Activity
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ali-Tagipour&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Tagipour&layout=compact&theme=radical)
-
-### 🌱 فعالیت سالانه | GitHub Activity
-![Ali's GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Ali-Tagipour&theme=react-dark&hide_border=true)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ali-Tagipour&show_icons=true&theme=radical&count_private=true" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Tagipour&layout=compact&theme=radical" />
+<br/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ali-Tagipour&theme=react-dark&hide_border=true" />
+</p>
 
 ---
 
 ## ✨ نشان‌ها و دستاوردها | Badges & Achievements
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&animation=glow)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&animation=glow)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&animation=glow)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&animation=glow)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&animation=glow)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&animation=glow)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 
 ---
 
