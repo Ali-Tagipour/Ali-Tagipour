@@ -2,11 +2,10 @@
 # 🌕 علی تقی‌پور (Ali Tagipour – A.T)
 👋 سلام! من **علی تقی‌پور** هستم  
 💻 **مهندس کامپیوتر | Full-Stack Developer | Problem Solver**
-
-I build **high-performance, scalable, and user-focused web applications**.  
-من برنامه‌های **حرفه‌ای، مقیاس‌پذیر و کاربرپسند** می‌سازم که تجربهٔ عالی، امنیت بالا و عملکرد قوی ارائه می‌دهند.  
-✨ هدفم خلق محصولاتی است که ترکیبی از **کدنویسی تمیز (Clean Code)، معماری اصولی (Software Architecture)**  
-و **UI/UX جذاب و حرفه‌ای** باشند.
+I design and develop **high-performance, scalable, and secure web & mobile applications**.  
+من برنامه‌های **وب و موبایل با عملکرد بالا، مقیاس‌پذیر و امنیت پیشرفته** می‌سازم که از **معماری اصولی (Software Architecture)، استانداردهای Clean Code** و **UI/UX حرفه‌ای** بهره می‌برند.  
+Focus: **Robust architecture, maintainable code, optimized performance, and intuitive interfaces.**
+.
 
 ---
 
