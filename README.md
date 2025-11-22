@@ -1,8 +1,13 @@
+<!-- 🌌 بک‌گراند متحرک -->
+![Header GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
 # 🌕 علی تقی‌پور (Ali Tagipour – A.T)
 👋 سلام! من **علی تقی‌پور** هستم  
 💻 **مهندس کامپیوتر | Full-Stack Developer**  
-I craft **high-performance, scalable web applications** with clean, maintainable code and beautiful, intuitive UI/UX.  
-من برنامه‌های **وب با کارایی بالا و رابط کاربری زیبا و حرفه‌ای** می‌سازم.  
+
+I build **high-performance, scalable, and user-friendly web applications**.  
+من برنامه‌های **وب حرفه‌ای، مقیاس‌پذیر و کاربرپسند** می‌سازم که تجربهٔ عالی به کاربران ارائه دهد.  
+هدفم این است که با **کد تمیز، طراحی جذاب و UI/UX حرفه‌ای** پروژه‌های دیجیتال را به سطح حرفه‌ای برسانم.  
 
 ---
 
@@ -22,24 +27,31 @@ I craft **high-performance, scalable web applications** with clean, maintainable
 
 ## 💻 تکنولوژی‌ها | Tech Stack
 
-### زبان‌ها | Programming Languages
+### Programming Languages | زبان‌ها
 `Python` `C#` `Java` `JavaScript` `TypeScript`
 
-### فرانت‌اند | Frontend
-`React` `Next.js` `Redux` `Tailwind CSS` `ShadCN UI` `Vite`
+### Frontend | فرانت‌اند  
+`HTML` `CSS` `JavaScript` `TypeScript`  
+`React` `Next.js` `Nuxt.js`  
+`Angular` `TailwindCSS` `Bootstrap`  
 
-### بک‌اند | Backend
-`Django` `Flask` `.NET` `NodeJS`
 
-### دیتابیس | Databases
+
+### Backend | بک‌اند  
+`Django` `Flask` `.NET` `NodeJS`  
+`ASP.NET Core` `Laravel` 
+
+
+
+### Databases | دیتابیس
 `MySQL` `Firebase`
 
-### ابزارها و طراحی | Tools & Design
+### Tools & Design | ابزارها و طراحی
 `Qt` `Ionic` `Adobe XD` `Figma` `Framer` `Canva` `GitHub Actions`
 
 ---
 
-## 📊 وضعیت گیت‌هاب | GitHub Stats & Activity
+## 📊 GitHub Stats & Activity
 ![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ali-Tagipour&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Tagipour&layout=compact&theme=radical)
 
