@@ -1,7 +1,7 @@
 # 🌕 علی تقی‌پور (Ali Tagipour – A.T)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=سلام!+من+علی+تقی‌پور+هستم;Computer+Engineer+%7C+Full-Stack+Developer;Problem+Solver+Extraordinaire" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=5000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=سلام!+من+علی+تقی‌پور+هستم;Ali+Tagipour;Computer+Engineer+%7C+Full-Stack+Developer" alt="Typing SVG" />
 </p>
 
 👋 سلام! من **علی تقی‌پور** هستم، یک **مهندس کامپیوتر** با تمرکز بر توسعه **فول‌استک** و حل مسائل پیچیده.
@@ -19,6 +19,10 @@ I design and develop **high-performance, scalable, and secure web & mobile appli
 من برنامه‌های **وب و موبایل با عملکرد بالا، مقیاس‌پذیر و امنیت پیشرفته** می‌سازم که از **معماری اصولی (Software Architecture)، استانداردهای Clean Code** و **UI/UX حرفه‌ای** بهره می‌برند.
 
 **تمرکز من:** معماری قوی، کد قابل نگهداری، عملکرد بهینه‌سازی‌شده، و رابط‌های کاربری intuitive.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13UZisxCxkjPwI/giphy.gif" alt="Coding Animation" width="200" />
+</p>
 
 ---
 
@@ -51,6 +55,10 @@ I design and develop **high-performance, scalable, and secure web & mobile appli
 ### 🛠 Tools & Design | ابزارها و طراحی
 
 `Git & GitHub` `Docker` `Qt` `Adobe XD` `Figma` `Framer` `GitHub Actions`
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif" alt="Tech Stack Animation" width="200" />
+</p>
 
 ---
 
@@ -93,6 +101,10 @@ I design and develop **high-performance, scalable, and secure web & mobile appli
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Achievements Animation" width="200" />
+</p>
+
 ---
 
 ## 🏆 Trophies | جوایز GitHub
@@ -110,6 +122,10 @@ I design and develop **high-performance, scalable, and secure web & mobile appli
 - **پروژه 3**: پروژه‌ای با C# و ASP.NET Core برای سیستم مدیریت محتوا. [لینک به ریپو](https://github.com/Ali-Tagipour/project3)
 
 *(این پروژه‌ها placeholders هستند؛ لطفاً با پروژه‌های واقعی خود جایگزین کنید.)*
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2d7hy9SlYfOIA/giphy.gif" alt="Projects Animation" width="200" />
+</p>
 
 ---
 
