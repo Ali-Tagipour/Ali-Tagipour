@@ -21,7 +21,7 @@ I design and develop **high-performance, scalable, and secure web & mobile appli
 **تمرکز من:** معماری قوی، کد قابل نگهداری، عملکرد بهینه‌سازی‌شده، و رابط‌های کاربری intuitive.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13UZisxCxkjPwI/giphy.gif" alt="Coding Animation" width="200" />
+  <img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="Coding Animation" width="200" />
 </p>
 
 ---
@@ -57,7 +57,7 @@ I design and develop **high-performance, scalable, and secure web & mobile appli
 `Git & GitHub` `Docker` `Qt` `Adobe XD` `Figma` `Framer` `GitHub Actions`
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif" alt="Tech Stack Animation" width="200" />
+  <img src="https://miro.medium.com/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Tech Stack Animation" width="200" />
 </p>
 
 ---
@@ -102,7 +102,7 @@ I design and develop **high-performance, scalable, and secure web & mobile appli
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Achievements Animation" width="200" />
+  <img src="https://cdn.dribbble.com/userupload/41724704/file/original-0f628e9e036452008b08950369ce675b.gif" alt="Achievements Animation" width="200" />
 </p>
 
 ---
@@ -117,14 +117,14 @@ I design and develop **high-performance, scalable, and secure web & mobile appli
 
 ## 🚀 پروژه‌های برجسته | Featured Projects
 
-- **پروژه 1**: توضیح مختصری از پروژه، مانند یک اپلیکیشن وب ساخته‌شده با React و Django که ویژگی‌های X، Y، Z را دارد. [لینک به ریپو](https://github.com/Ali-Tagipour/project1)
-- **پروژه 2**: توضیح دیگری، مثلاً یک اپ موبایل با Java که عملکرد بالایی دارد. [لینک به ریپو](https://github.com/Ali-Tagipour/project2)
-- **پروژه 3**: پروژه‌ای با C# و ASP.NET Core برای سیستم مدیریت محتوا. [لینک به ریپو](https://github.com/Ali-Tagipour/project3)
+- **پروژه 1**: یک اپلیکیشن وب ساخته‌شده با React و Django برای مدیریت وظایف، با ویژگی‌های ورود کاربر، داشبورد پویا و ادغام API. [لینک به ریپو](https://github.com/Ali-Tagipour/task-manager)
+- **پروژه 2**: اپلیکیشن موبایل با Java برای ردیابی تناسب اندام، شامل نقشه‌برداری GPS و تحلیل داده‌ها. [لینک به ریپو](https://github.com/Ali-Tagipour/fitness-tracker)
+- **پروژه 3**: سیستم مدیریت محتوا با C# و ASP.NET Core، پشتیبانی از کاربران چندگانه و امنیت بالا. [لینک به ریپو](https://github.com/Ali-Tagipour/cms-system)
 
-*(این پروژه‌ها placeholders هستند؛ لطفاً با پروژه‌های واقعی خود جایگزین کنید.)*
+*(این پروژه‌ها نمونه‌های پیشنهادی هستند؛ لطفاً با پروژه‌های واقعی خود جایگزین کنید و لینک‌ها را بروزرسانی نمایید.)*
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2d7hy9SlYfOIA/giphy.gif" alt="Projects Animation" width="200" />
+  <img src="https://cdn.dribbble.com/userupload/20486618/file/original-2b0d53bac8140d39f99ac7fdec0d7471.gif" alt="Projects Animation" width="200" />
 </p>
 
 ---
@@ -135,5 +135,5 @@ I design and develop **high-performance, scalable, and secure web & mobile appli
 > "Simplicity is the soul of efficiency." – Austin Freeman
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding Animation" width="200" />
+  <img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="Coding Animation" width="200" />
 </p>
