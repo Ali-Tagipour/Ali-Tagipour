@@ -83,7 +83,7 @@ I design and develop **high-performance, scalable, and secure web & mobile appli
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Tagipour&theme=react-dark&hide_border=true" alt="Contribution Graph" />
   <br/>
-  <!-- Snake Animation: برای فعال‌سازی این انیمیشن، یک GitHub Workflow با استفاده از اکشن https://github.com/Platane/snk تنظیم کنید. این اکشن فایل github-contribution-grid-snake.svg را در شاخه output تولید می‌کند. پس از تنظیم، این انیمیشن به درستی نمایش داده خواهد شد. اگر هنوز تنظیم نشده، فایل وجود ندارد و نمایش داده نمی‌شود. -->
+  <!-- Snake Animation: برای نمایش این انیمیشن، باید یک GitHub Workflow با استفاده از اکشن Platane/snk تنظیم کنید. این اکشن فایل github-contribution-grid-snake.svg را در شاخه output ریپازیتوری شما تولید می‌کند. اگر هنوز تنظیم نشده، فایل وجود ندارد و انیمیشن نمایش داده نمی‌شود. راهنما: https://github.com/Platane/snk -->
   <img src="https://raw.githubusercontent.com/Ali-Tagipour/Ali-Tagipour/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
@@ -117,15 +117,8 @@ I design and develop **high-performance, scalable, and secure web & mobile appli
 
 ## 🚀 پروژه‌های برجسته | Featured Projects
 
-- **Task Manager App**: یک اپلیکیشن وب برای مدیریت وظایف ساخته‌شده با React در فرانت‌اند و Django در بک‌اند. ویژگی‌ها شامل احراز هویت کاربر، داشبورد پویا، و ادغام با API خارجی. [لینک به ریپو](https://github.com/Ali-Tagipour/task-manager)
-- **Fitness Tracker**: اپلیکیشن موبایل با Java برای ردیابی فعالیت‌های ورزشی، شامل نقشه‌برداری GPS، تحلیل داده‌های سلامتی، و همگام‌سازی ابری. [لینک به ریپو](https://github.com/Ali-Tagipour/fitness-tracker)
-- **Content Management System (CMS)**: سیستم مدیریت محتوا با C# و ASP.NET Core، پشتیبانی از کاربران چندگانه، ویرایشگر پیشرفته، و امنیت بالا با JWT. [لینک به ریپو](https://github.com/Ali-Tagipour/cms-system)
-
-*(این پروژه‌ها نمونه‌های پیشنهادی هستند؛ لطفاً با پروژه‌های واقعی خود جایگزین کنید و لینک‌ها را بروزرسانی نمایید. برای جذاب‌تر کردن، می‌توانید تصاویر یا دمو اضافه کنید.)*
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/userupload/20486618/file/original-2b0d53bac8140d39f99ac7fdec0d7471.gif" alt="Projects Animation" width="200" />
-</p>
+<!-- جای پروژه‌ها را خالی گذاشته‌ام تا خودتان اضافه کنید. می‌توانید به این صورت اضافه کنید: -->
+<!-- - **نام پروژه**: توضیح مختصر. [لینک به ریپو](لینک) -->
 
 ---
 
