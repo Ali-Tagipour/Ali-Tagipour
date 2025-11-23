@@ -57,7 +57,7 @@ I design and develop **high-performance, scalable, and secure web & mobile appli
 `Git & GitHub` `Docker` `Qt` `Adobe XD` `Figma` `Framer` `GitHub Actions`
 
 <p align="center">
-  <img src="https://miro.medium.com/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Tech Stack Animation" width="200" />
+  <img src="https://miro.medium.com/v2/resize:fit:480/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Tech Stack Animation" width="200" />
 </p>
 
 ---
@@ -83,7 +83,7 @@ I design and develop **high-performance, scalable, and secure web & mobile appli
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Tagipour&theme=react-dark&hide_border=true" alt="Contribution Graph" />
   <br/>
-  <!-- Snake Animation: Setup GitHub Action from https://github.com/Platane/snk to generate this. It creates an animated snake that moves across your contribution graph, turning it 'green' as it goes. -->
+  <!-- Snake Animation: برای فعال‌سازی این انیمیشن، یک GitHub Workflow با استفاده از اکشن https://github.com/Platane/snk تنظیم کنید. این اکشن فایل github-contribution-grid-snake.svg را در شاخه output تولید می‌کند. پس از تنظیم، این انیمیشن به درستی نمایش داده خواهد شد. اگر هنوز تنظیم نشده، فایل وجود ندارد و نمایش داده نمی‌شود. -->
   <img src="https://raw.githubusercontent.com/Ali-Tagipour/Ali-Tagipour/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
@@ -117,11 +117,11 @@ I design and develop **high-performance, scalable, and secure web & mobile appli
 
 ## 🚀 پروژه‌های برجسته | Featured Projects
 
-- **پروژه 1**:....)
-- **پروژه 2**: ....)
-- **پروژه 3**: .....)
+- **Task Manager App**: یک اپلیکیشن وب برای مدیریت وظایف ساخته‌شده با React در فرانت‌اند و Django در بک‌اند. ویژگی‌ها شامل احراز هویت کاربر، داشبورد پویا، و ادغام با API خارجی. [لینک به ریپو](https://github.com/Ali-Tagipour/task-manager)
+- **Fitness Tracker**: اپلیکیشن موبایل با Java برای ردیابی فعالیت‌های ورزشی، شامل نقشه‌برداری GPS، تحلیل داده‌های سلامتی، و همگام‌سازی ابری. [لینک به ریپو](https://github.com/Ali-Tagipour/fitness-tracker)
+- **Content Management System (CMS)**: سیستم مدیریت محتوا با C# و ASP.NET Core، پشتیبانی از کاربران چندگانه، ویرایشگر پیشرفته، و امنیت بالا با JWT. [لینک به ریپو](https://github.com/Ali-Tagipour/cms-system)
 
-*(این پروژه‌ها نمونه‌های پیشنهادی هستند؛ لطفاً با پروژه‌های واقعی خود جایگزین کنید و لینک‌ها را بروزرسانی نمایید.)*
+*(این پروژه‌ها نمونه‌های پیشنهادی هستند؛ لطفاً با پروژه‌های واقعی خود جایگزین کنید و لینک‌ها را بروزرسانی نمایید. برای جذاب‌تر کردن، می‌توانید تصاویر یا دمو اضافه کنید.)*
 
 <p align="center">
   <img src="https://cdn.dribbble.com/userupload/20486618/file/original-2b0d53bac8140d39f99ac7fdec0d7471.gif" alt="Projects Animation" width="200" />
@@ -135,5 +135,5 @@ I design and develop **high-performance, scalable, and secure web & mobile appli
 > "Simplicity is the soul of efficiency." – Austin Freeman
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="Coding Animation" width="200" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGV2N3Z5N2d5N3h1bjRjcnIzOWZ3eDk3c3VicjU5Z2M0a2hsd2N1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD2d7hy9SlYfOIA/giphy.gif" alt="Dev Quote Animation" width="200" />
 </p>
