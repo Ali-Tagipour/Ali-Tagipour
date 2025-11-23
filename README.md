@@ -121,7 +121,6 @@ I design and develop **high-performance, scalable, and secure web & mobile appli
 - **پروژه 2**: ....)
 - **پروژه 3**: .....)
 
-*(این پروژه‌ها نمونه‌های پیشنهادی هستند؛ لطفاً با پروژه‌های واقعی خود جایگزین کنید و لینک‌ها را بروزرسانی نمایید.)*
 
 <p align="center">
   <img src="https://cdn.dribbble.com/userupload/20486618/file/original-2b0d53bac8140d39f99ac7fdec0d7471.gif" alt="Projects Animation" width="200" />
