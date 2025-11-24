@@ -9,33 +9,32 @@
 </p>
 
 <p align="center">
-  👋 Hi! I'm <strong>Ali Tagipour</strong>, a dedicated <strong>Computer Engineer</strong> and <strong>Full-Stack Developer</strong> focused on building scalable software solutions with clean architecture, modern UI/UX, and performance-driven systems.
-</p>
-
-<p align="center">💻 <strong>Computer Engineer&nbsp;|&nbsp;Full-Stack Developer&nbsp;|&nbsp;Software Architect</strong></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ali-Tagipour&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+  <strong>Ali Tagipour</strong><br>
+  Computer Engineer • Full-Stack Developer • Software Architecture Enthusiast
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Coding Animation" width="300" />
+  Designing and implementing scalable, maintainable and secure software systems with a strong focus on Clean Architecture, domain-driven design, and high code quality standards. 
+</p>
+
+<p align="center">
+  Specialized in building end-to-end solutions across web and mobile platforms, combining robust backend engineering with user-centered interface development.
 </p>
 
 ---
 
 <p align="center">
-  I architect and develop <strong>high-performance, scalable, and secure web and mobile applications</strong> using <strong>Clean Architecture, SOLID principles, Design Patterns, and maintainable code practices</strong>.  
-  My work bridges <strong>innovative UI/UX engineering</strong> with <strong>robust backend infrastructure</strong> to deliver seamless digital experiences.
+  <strong>Technical Interests</strong><br>
+  System Design • Software Architecture • Performance Engineering • API Design • Database Modeling • UI/UX Engineering
 </p>
 
 <p align="center">
-  من برنامه‌های <strong>وب و موبایل با معماری مقیاس‌پذیر، امنیت پیشرفته و کارایی بالا</strong> طراحی و توسعه می‌دهم که بر پایه <strong>Clean Architecture، اصول SOLID، الگوهای طراحی و مهندسی UI/UX حرفه‌ای</strong> ساخته شده‌اند.
+  <strong>Core Competencies</strong><br>
+  Clean Architecture • SOLID Principles • Design Patterns • OOP • RESTful Services • Responsive Front-End Development
 </p>
 
 <p align="center">
-  <strong>Core Focus Areas:</strong><br>
-  Software Architecture • Clean Code • Performance Optimization • RESTful APIs • Database Design • Scalable UI/UX Engineering
+  Passionate about transforming real-world problems into efficient, scalable, and user-centric digital solutions.
 </p>
 
 
