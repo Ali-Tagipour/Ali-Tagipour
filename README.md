@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=5000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=سلام!+من+علی+تقی‌پور+هستم;Ali+Tagipour;Computer+Engineer+%7C+Full-Stack+Developer" alt="Typing SVG" />
 </p>
 
-👋 سلام! من **علی تقی‌پور** هستم، یک **مهندس کامپیوتر** با تمرکز بر توسعه **فول‌استک** و حل مسائل پیچیده.
+👋 Hello! I am **Ali Tagipour**, a **Computer Engineer** specializing in **Full-Stack Development** and tackling complex technical challenges.
 
-💻 **مهندس کامپیوتر | Full-Stack Developer **
+💻 **Computer Engineer | Full-Stack Developer**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ali-Tagipour&style=for-the-badge&color=brightgreen" alt="Profile Views" />
@@ -14,19 +14,19 @@
 
 ---
 
-I design and develop **high-performance, scalable, and secure web & mobile applications** using **principled software architecture, clean code standards**, and **professional UI/UX design**.
+I engineer **high-performance, scalable, and secure web and mobile applications** leveraging **robust software architecture principles, Clean Code practices**, and **professional UI/UX design methodologies**.
 
-من برنامه‌های **وب و موبایل با عملکرد بالا، مقیاس‌پذیر و امنیت پیشرفته** می‌سازم که از **معماری اصولی (Software Architecture)، استانداردهای Clean Code** و **UI/UX حرفه‌ای** بهره می‌برند.
+من برنامه‌های **وب و موبایل با عملکرد بالا، مقیاس‌پذیر و امنیت پیشرفته** را مهندسی می‌کنم که از **اصول معماری نرم‌افزار، شیوه‌های Clean Code** و **طراحی حرفه‌ای UI/UX** بهره می‌برند.
 
-**تمرکز من:** معماری قوی، کد قابل نگهداری، عملکرد بهینه‌سازی‌شده، و رابط‌های کاربری intuitive.
+**My Focus:** Robust architectures, maintainable codebases, performance optimization, and intuitive user interfaces.
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="Coding Animation" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Coding Animation" width="200" />
 </p>
 
 ---
 
-## 🛠 زبان‌ها و فریم‌ورک‌ها | Languages & Frameworks
+## 🛠 Languages & Frameworks | زبان‌ها و فریم‌ورک‌ها
 
 - 🐍 **Python & Django**
 - ☕ **Java**
@@ -34,7 +34,7 @@ I design and develop **high-performance, scalable, and secure web & mobile appli
 
 ---
 
-## 💻 تکنولوژی‌ها | Tech Stack
+## 💻 Tech Stack | تکنولوژی‌ها
 
 ### 👨‍💻 Programming Languages | زبان‌های برنامه‌نویسی
 
@@ -57,12 +57,12 @@ I design and develop **high-performance, scalable, and secure web & mobile appli
 `Git & GitHub` `Docker` `Qt` `Adobe XD` `Figma` `Framer` `GitHub Actions`
 
 <p align="center">
-  <img src="https://miro.medium.com/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Tech Stack Animation" width="200" />
+  <img src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" alt="Tech Stack Animation" width="200" />
 </p>
 
 ---
 
-## 🌐 ارتباط با من | Connect with Me
+## 🌐 Connect with Me | ارتباط با من
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DevbyAT)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/devbyat)
@@ -72,7 +72,7 @@ I design and develop **high-performance, scalable, and secure web & mobile appli
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats & Activity | آمار و فعالیت GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ali-Tagipour&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
@@ -83,13 +83,13 @@ I design and develop **high-performance, scalable, and secure web & mobile appli
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Tagipour&theme=react-dark&hide_border=true" alt="Contribution Graph" />
   <br/>
-  <!-- Snake Animation: Setup GitHub Action from https://github.com/Platane/snk to generate this. It creates an animated snake that moves across your contribution graph, turning it 'green' as it goes. -->
+  <!-- Snake Animation: To enable this, set up a GitHub Workflow using the Platane/snk action. It generates github-contribution-grid-snake.svg in the output branch. Guide: https://github.com/Platane/snk -->
   <img src="https://raw.githubusercontent.com/Ali-Tagipour/Ali-Tagipour/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
 
-## ✨ نشان‌ها و دستاوردها | Badges & Achievements
+## ✨ Badges & Achievements | نشان‌ها و دستاوردها
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -102,12 +102,12 @@ I design and develop **high-performance, scalable, and secure web & mobile appli
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/userupload/41724704/file/original-0f628e9e036452008b08950369ce675b.gif" alt="Achievements Animation" width="200" />
+  <img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Developer.gif" alt="Achievements Animation" width="200" />
 </p>
 
 ---
 
-## 🏆 Trophies | جوایز GitHub
+## 🏆 GitHub Trophies | جوایز GitHub
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ali-Tagipour&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
@@ -115,24 +115,23 @@ I design and develop **high-performance, scalable, and secure web & mobile appli
 
 ---
 
-## 🚀 پروژه‌های برجسته | Featured Projects
+## 🚀 Featured Projects | پروژه‌های برجسته
 
-- **پروژه 1**:....)
-- **پروژه 2**: ....)
-- **پروژه 3**: .....)
-
+- **Project 1**: ...
+- **Project 2**: ...
+- **Project 3**: ...
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/userupload/20486618/file/original-2b0d53bac8140d39f99ac7fdec0d7471.gif" alt="Projects Animation" width="200" />
+  <img src="https://cdn.dribbble.com/userupload/24432278/file/original-cd20cc71ddd02e9234e87d76a20edee4.gif" alt="Projects Animation" width="200" />
 </p>
 
 ---
 
-## ✍️ نقل قول برنامه‌نویس | Dev Quote
+## ✍️ Dev Quote | نقل قول برنامه‌نویس
 
-> "سادگی، روح کارایی است." – Austin Freeman  
-> "Simplicity is the soul of efficiency." – Austin Freeman
+> "Simplicity is the soul of efficiency." – Austin Freeman  
+> "سادگی، روح کارایی است." – Austin Freeman
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="Coding Animation" width="200" />
+  <img src="https://y.yarn.co/a8a3cd51-ab1c-439d-8af2-618fadcacd36_text.gif" alt="Dev Quote Animation" width="200" />
 </p>
