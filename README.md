@@ -13,29 +13,45 @@
   Computer Engineer • Full-Stack Developer • Software Architecture Enthusiast
 </p>
 
-<p align="center">
-  Designing and implementing scalable, maintainable and secure software systems with a strong focus on Clean Architecture, domain-driven design, and high code quality standards. 
-</p>
+<br>
 
 <p align="center">
-  Specialized in building end-to-end solutions across web and mobile platforms, combining robust backend engineering with user-centered interface development.
+  Designing and implementing scalable, maintainable and secure software systems with a strong focus on Clean Architecture, domain-driven design, and high code quality standards.  
+  Specialized in developing end-to-end web and mobile solutions by combining robust backend engineering with user-centric interface development.
 </p>
+
+<br>
+
+<p align="center">
+  طراحی و توسعه سیستم‌های نرم‌افزاری مقیاس‌پذیر، قابل نگهداری و امن با تمرکز بر Clean Architecture، رویکرد Domain-Driven Design و استانداردهای حرفه‌ای کیفیت کد.  
+  متخصص در پیاده‌سازی راهکارهای Web و Mobile به صورت End-to-End با ترکیب مهندسی Backend قدرتمند و طراحی رابط کاربری کاربرمحور.
+</p>
+
+<br>
 
 ---
 
-<p align="center">
-  <strong>Technical Interests</strong><br>
-  System Design • Software Architecture • Performance Engineering • API Design • Database Modeling • UI/UX Engineering
-</p>
+<br>
 
 <p align="center">
-  <strong>Core Competencies</strong><br>
-  Clean Architecture • SOLID Principles • Design Patterns • OOP • RESTful Services • Responsive Front-End Development
+  <strong>Core Competencies | مهارت‌های تخصصی</strong><br>
+  Software Architecture • Clean Code • SOLID • Design Patterns • API Design • Database Modeling • UI/UX Engineering
 </p>
 
+<br>
+
 <p align="center">
-  Passionate about transforming real-world problems into efficient, scalable, and user-centric digital solutions.
+  <strong>Technical Interests | حوزه‌های مورد علاقه</strong><br>
+  System Design • Performance Optimization • Scalable Applications • Domain Modeling • Responsive UI Development
 </p>
+
+<br>
+
+<p align="center">
+  Passionate about turning real-world challenges into efficient, scalable, and user-centered digital solutions.  
+  علاقه‌مند به تبدیل چالش‌های واقعی به راهکارهای دیجیتالی کارآمد، مقیاس‌پذیر و کاربرمحور.
+</p>
+
 
 
 ---
