@@ -105,8 +105,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2d7hy9SlYfOIA/giphy.gif" alt="Achievements Animation" width="200" />
+  <img src="https://cdn.dribbble.com/userupload/41724704/file/original-0f628e9e036452008b08950369ce675b.gif" alt="Achievements Animation" width="200" />
 </p>
+
 
 ---
 
