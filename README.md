@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  💻 **Computer Engineer | Full-Stack Developer | Problem Solver**
+  💻 **Computer Engineer | Full-Stack Developer **
 </p>
 
 <p align="center">
