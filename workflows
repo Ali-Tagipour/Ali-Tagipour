@@ -1,1 +1,28 @@
+name: Generate Snake Animation
 
+on:
+  schedule:
+    - cron: '0 0 * * *'  # هر روز اجرا شود
+  workflow_dispatch:  # اجازه اجرای دستی
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Generate the snake files
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}  # نام کاربری شما: Ali-Tagipour
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Commit and push the snake files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update snake animation
+          branch: output  # شاخه output را ایجاد می‌کند
+          file_pattern: dist/*.svg
