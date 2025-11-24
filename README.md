@@ -9,12 +9,10 @@
 </p>
 
 <p align="center">
-  👋 Hello! I am **Ali Tagipour**, a passionate **Computer Engineer** specializing in **Full-Stack Development**. I thrive on solving complex technical challenges and building innovative solutions.
+  👋 Hi! I'm <strong>Ali Tagipour</strong>, a dedicated <strong>Computer Engineer</strong> and <strong>Full-Stack Developer</strong> focused on building scalable software solutions with clean architecture, modern UI/UX, and performance-driven systems.
 </p>
 
-<p align="center">
-  💻 **Computer Engineer | Full-Stack Developer **
-</p>
+<p align="center">💻 <strong>Computer Engineer&nbsp;|&nbsp;Full-Stack Developer&nbsp;|&nbsp;Software Architect</strong></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ali-Tagipour&style=for-the-badge&color=brightgreen" alt="Profile Views" />
@@ -27,16 +25,19 @@
 ---
 
 <p align="center">
-  I engineer **high-performance, scalable, and secure web and mobile applications** leveraging **robust software architecture principles, Clean Code practices**, and **professional UI/UX design methodologies**.
+  I architect and develop <strong>high-performance, scalable, and secure web and mobile applications</strong> using <strong>Clean Architecture, SOLID principles, Design Patterns, and maintainable code practices</strong>.  
+  My work bridges <strong>innovative UI/UX engineering</strong> with <strong>robust backend infrastructure</strong> to deliver seamless digital experiences.
 </p>
 
 <p align="center">
-  من برنامه‌های **وب و موبایل با عملکرد بالا، مقیاس‌پذیر و امنیت پیشرفته** را مهندسی می‌کنم که از **اصول معماری نرم‌افزار، شیوه‌های Clean Code** و **طراحی حرفه‌ای UI/UX** بهره می‌برند.
+  من برنامه‌های <strong>وب و موبایل با معماری مقیاس‌پذیر، امنیت پیشرفته و کارایی بالا</strong> طراحی و توسعه می‌دهم که بر پایه <strong>Clean Architecture، اصول SOLID، الگوهای طراحی و مهندسی UI/UX حرفه‌ای</strong> ساخته شده‌اند.
 </p>
 
 <p align="center">
-  **My Focus:** Robust architectures, maintainable codebases, performance optimization, and intuitive user interfaces.
+  <strong>Core Focus Areas:</strong><br>
+  Software Architecture • Clean Code • Performance Optimization • RESTful APIs • Database Design • Scalable UI/UX Engineering
 </p>
+
 
 ---
 
