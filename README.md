@@ -55,15 +55,11 @@
 ## <p align="center">💻 Tech Stack | تکنولوژی‌ها</p>
 
 <p align="center">
-  <a href="#programming-languages"><img src="https://skillicons.dev/icons?i=python,csharp,java,js,ts" alt="Programming Languages" /></a>
-  <a href="#frontend"><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,redux" alt="Frontend" /></a>
-  <a href="#backend"><img src="https://skillicons.dev/icons?i=django,flask,dotnet,nodejs" alt="Backend" /></a>
-  <a href="#databases"><img src="https://skillicons.dev/icons?i=mysql,postgres,mssql,firebase" alt="Databases" /></a>
-  <a href="#tools"><img src="https://skillicons.dev/icons?i=git,github,docker,qt,figma,githubactions" alt="Tools" /></a>
+  <img src="https://skillicons.dev/icons?i=py,cs,java,js,ts,html,css,react,nextjs,tailwind,bootstrap,redux,django,flask,dotnet,nodejs,mysql,postgres,sqlserver,firebase,git,github,docker,qt,xd,figma,framer,githubactions" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif" alt="Tech Stack Animation" width="300" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" alt="Tech Stack Animation" width="300" />
 </p>
 
 ---
@@ -87,11 +83,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Tagipour&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com/?user=Ali-Tagipour&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Tagipour&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ali-Tagipour/Ali-Tagipour/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ali-Tagipour/Ali-Tagipour/output/github-snake.svg" />
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/Ali-Tagipour/Ali-Tagipour/output/github-snake.svg" />
-  </picture>
+  <br/>
+  <!-- Replacement for Snake: Code Scroll Animation -->
+  <img src="https://private-user-images.githubusercontent.com/74038190/240825379-0db32290-c193-4b32-95dc-413ce9e446a5.gif" alt="Code Scroll Animation" />
 </p>
 
 ---
@@ -127,9 +121,9 @@
 ## <p align="center">🚀 Featured Projects | پروژه‌های برجسته</p>
 
 <p align="center">
-  - **Project 1**: [Description and link]...
-  - **Project 2**: [Description and link]...
-  - **Project 3**: [Description and link]...
+  - **Project 1**: ...
+  - **Project 2**: ...
+  - **Project 3**: ...
 </p>
 
 <p align="center">
