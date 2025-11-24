@@ -6,7 +6,7 @@
 
 👋 سلام! من **علی تقی‌پور** هستم، یک **مهندس کامپیوتر** با تمرکز بر توسعه **فول‌استک** و حل مسائل پیچیده.
 
-💻 **مهندس کامپیوتر | Full-Stack Developer | Problem Solver**
+💻 **مهندس کامپیوتر | Full-Stack Developer **
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ali-Tagipour&style=for-the-badge&color=brightgreen" alt="Profile Views" />
