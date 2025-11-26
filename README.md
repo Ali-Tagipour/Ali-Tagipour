@@ -14,25 +14,25 @@
 </p>
 
 <p align="center">
-  I’m a Full-Stack Developer and Computer Engineer focused on building scalable, reliable, and user-friendly software.  
-  My goal is to create systems that are clean in architecture, high in performance, and pleasant in user experience.
+  I’m a Full-Stack Developer and Computer Engineer skilled in building modern web and mobile applications.  
+  I turn ideas into scalable, reliable and user-focused digital products.
 </p>
 
 <p align="center">
-  من یک توسعه‌دهنده فول‌استک و مهندس کامپیوتر هستم که تمرکزم روی ساخت نرم‌افزارهای مقیاس‌پذیر، قابل‌اعتماد و کاربرپسند است.  
-  هدف من ایجاد سیستم‌هایی است که هم معماری تمیز داشته باشند، هم کارایی بالا و هم تجربه کاربری لذت‌بخش.
+  من یک توسعه‌دهنده فول‌استک و مهندس کامپیوتر هستم که در طراحی و ساخت وب‌سایت‌ها و اپلیکیشن‌های موبایل حرفه‌ای تخصص دارم.  
+  هدفم تبدیل ایده‌ها به محصولاتی مقیاس‌پذیر، قابل اعتماد و کاربرپسند است.
 </p>
 
 <br>
 
 <p align="center">
-  Experienced in Clean Architecture, SOLID principles, and Design Patterns to build maintainable and flexible systems.  
-  Skilled in RESTful & GraphQL API design, database modeling with ORM, and responsive, modern UI/UX development.
+  Experienced with ASP.NET Core, C#, Python, Django, Java, and Flutter for developing both web and mobile apps.  
+  Skilled in RESTful API design, database modeling with SQL/NoSQL, and building responsive and modern UI/UX.
 </p>
 
 <p align="center">
-  با اصول Clean Architecture، SOLID و الگوهای طراحی آشنایی عملی دارم و از آن‌ها برای ساخت سیستم‌های قابل نگهداری و توسعه‌پذیر استفاده می‌کنم.  
-  در طراحی API استاندارد (RESTful و GraphQL)، مدل‌سازی دیتابیس با ORM و توسعه رابط کاربری واکنش‌گرا و مدرن مهارت دارم.
+  در توسعه وب و موبایل با تکنولوژی‌هایی مثل ASP.NET Core، C#، Python، Django، Java و Flutter تجربه عملی دارم.  
+  در طراحی API، مدل‌سازی دیتابیس (SQL و NoSQL) و ساخت رابط کاربری واکنش‌گرا و مدرن مهارت دارم.
 </p>
 
 <br>
@@ -43,26 +43,31 @@
 
 <p align="center">
   <strong>Core Skills | مهارت‌های تخصصی</strong><br>
-  Software Architecture • Clean Code • Design Patterns • API Design • Database Modeling • UI/UX Engineering • Performance Optimization • Security Principles
+  Web & Mobile Development • ASP.NET Core • Django • C# • Python • Java • Flutter • API Design • SQL/NoSQL Databases • Responsive UI/UX • Clean Architecture
 </p>
 
 <br>
 
 <p align="center">
   <strong>Interests | علاقه‌مندی‌ها</strong><br>
-  Scalable Applications • Distributed Systems • Domain Modeling • Cloud Development • Progressive Web Apps (PWA)
+  Mobile App Development • Scalable Web Applications • Cloud-Based Solutions • Domain Modeling • Modern UI/UX Design
 </p>
 
 <br>
 
 <p align="center">
-  I believe great software should be technically strong, easy to scale, and enjoyable to use.  
-  باور دارم بهترین نرم‌افزارها، هم باید از نظر فنی قدرتمند باشند و هم تجربه‌ای ساده، سریع و لذت‌بخش برای کاربر ایجاد کنند.
+  Ready to collaborate on your next project.  
+  آماده همکاری برای انجام پروژه‌های شما هستم.
+</p>
+
+<p align="center">
+  📧 Email | 💼 LinkedIn | 🧑‍💻 GitHub | 🌐 Portfolio
 </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coding Animation" width="300" />
 </p>
+
 
 
 ---
