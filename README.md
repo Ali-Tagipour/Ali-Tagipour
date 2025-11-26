@@ -1,11 +1,11 @@
-# Ali Tagipour – A.T
+# 🌕 علی تقی‌پور (Ali Tagipour – A.T)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=220&section=header&text=Ali%20Tagipour&fontSize=68&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4800&pause=900&color=00FF41&center=true&vCenter=true&width=700&lines=سلام!+من+علی+تقی‌پور+هستم;Full-Stack+Developer;Clean+Architecture+Specialist;Performance+%26+Security+Focused" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=5000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=سلام!+من+علی+تقی‌پور+هستم;Ali+Tagipour;Computer+Engineer+%7C+Full-Stack+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
