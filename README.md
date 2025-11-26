@@ -1,138 +1,172 @@
-# Ali Tagipour – A.T
+# 🌕 علی تقی‌پور (Ali Tagipour – A.T)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=280&section=header&text=Ali%20Tagipour&fontSize=78&fontAlignY=40&animation=fadeIn&desc=Computer%20Engineer%20•%20Full-Stack%20Developer%20•%20Software%20Architect&descAlignY=55&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ali%20Tagipour&fontSize=60&animation=fadeIn" alt="Header Capsule" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=5000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=سلام!+من+علی+تقی‌پور+هستم;Full-Stack+Developer;Clean+Architecture+%26+DDD+Specialist;Performance+Engineering+Enthusiast;Let's+build+something+amazing!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=5000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=سلام!+من+علی+تقی‌پور+هستم;Ali+Tagipour;Computer+Engineer+%7C+Full-Stack+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ali-Tagipour&label=Profile+Views&color=00ff41&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Ali-Tagipour?label=Followers&style=for-the-badge&color=00ff41" />
+  <strong>Ali Tagipour</strong><br>
+  Computer Engineer • Full-Stack Developer • Software Architecture Enthusiast
+</p>
+
+<br>
+
+<p align="center">
+  Designing and implementing scalable, maintainable and secure software systems with a strong focus on Clean Architecture, domain-driven design, and high code quality standards.
+  Specialized in developing end-to-end web and mobile solutions by combining robust backend engineering with user-centric interface development.
+</p>
+
+<br>
+
+<p align="center">
+  طراحی و توسعه سیستم‌های نرم‌افزاری مقیاس‌پذیر، قابل نگهداری و امن با تمرکز بر Clean Architecture، رویکرد Domain-Driven Design و استانداردهای حرفه‌ای کیفیت کد.
+  متخصص در پیاده‌سازی راهکارهای Web و Mobile به صورت End-to-End با ترکیب مهندسی Backend قدرتمند و طراحی رابط کاربری کاربرمحور.
+</p>
+
+<br>
+
+---
+
+<br>
+
+<p align="center">
+  <strong>Core Competencies | مهارت‌های تخصصی</strong><br>
+  Software Architecture • Clean Code • SOLID • Design Patterns • API Design • Database Modeling • UI/UX Engineering
+</p>
+
+<br>
+
+<p align="center">
+  <strong>Technical Interests | حوزه‌های مورد علاقه</strong><br>
+  System Design • Performance Optimization • Scalable Applications • Domain Modeling • Responsive UI Development
+</p>
+
+<br>
+
+<p align="center">
+  Passionate about turning real-world challenges into efficient, scalable, and user-centered digital solutions.
+  علاقه‌مند به تبدیل چالش‌های واقعی به راهکارهای دیجیتالی کارآمد، مقیاس‌پذیر و کاربرمحور.
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216644056-4c4f7e3b-1f4e-4e3a-9e3f-8f4e3b1f4e3a.gif" width="800" />
+  <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" alt="Multitasking Coding Animation" width="300" />
 </p>
 
 ---
 
-### About Me | درباره من
+## <p align="center">🛠 Languages & Frameworks | زبان‌ها و فریم‌ورک‌ها</p>
 
 <p align="center">
-  <strong>Computer Engineer</strong> with a deep passion for building <strong>scalable, maintainable, and high-performance</strong> systems.<br>
-  I design software using <strong>Clean Architecture</strong>, <strong>Domain-Driven Design</strong>, <strong>SOLID principles</strong>, and modern engineering practices.<br><br>
-  متخصص در طراحی سیستم‌های نرم‌افزاری <strong>مقیاس‌پذیر، قابل نگهداری و با عملکرد بالا</strong> با استفاده از <strong>Clean Architecture</strong>، <strong>DDD</strong>، اصول <strong>SOLID</strong> و بهترین شیوه‌های مهندسی نرم‌افزار.
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="500" />
-</p>
-
----
-
-### Tech Stack | تکنولوژی‌های من
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,java,js,ts,react,nextjs,tailwind,redux,django,flask,dotnet,nodejs,postgres,mysql,sqlserver,firebase,docker,git,github,githubactions,figma,xd,qt&perline=10&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/icons?icons=python,django,java,csharp,dotnet,react,nextjs,tailwind,redux,nodejs,postgres,mysql,firebase,docker,git,github,figma" height="60" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Core%20Stack&lineCount=2&theme=radical&bg=0d0d0d&titleColor=00ff41&line1=python,python,FFDD00;django,django,092E20;csharp,csharp,239120;react,react,61DAFB;line2=nextjs,nextjs,000000;postgres,postgres,336791;docker,docker,2496ED;githubactions,githubactions,2088FF" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
 </p>
 
 ---
 
-### GitHub Stats & Activity | آمار گیت‌هاب
+## <p align="center">💻 Tech Stack | تکنولوژی‌ها</p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ali-Tagipour&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Tagipour&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img src="https://skillicons.dev/icons?i=py,cs,java,js,ts,html,css,react,nextjs,tailwind,bootstrap,redux,django,flask,dotnet,nodejs,mysql,postgres,sqlserver,firebase,git,github,docker,qt,xd,figma,framer,githubactions" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ali-Tagipour&theme=radical&hide_border=true&fire=00FF41&ring=00FF41&currStreakLabel=00FF41" height="180" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Tagipour&theme=react-dark&hide_border=true&point=00FF41&area=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240825379-0db32290-c193-4b32-95dc-413ce9e446a5.gif" width="800" alt="Matrix-style Code Rain" />
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Tech Stack Floating Animation" width="300" />
 </p>
 
 ---
 
-### Dynamic Badges | نشان‌های زنده
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Architecture-Clean%20%26%20Hexagonal-00ff41?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Design%20Patterns-Expert-00ff41?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Performance-Optimization-00ff41?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Security-OWASP%20Compliant-00ff41?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Testing-TDD%20%26%20BDD-00ff41?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DevOps-Docker%20%26%20CI%2FCD-00ff41?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ali-Tagipour&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ali-Tagipour&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ali-Tagipour&theme=radical" />
-</p>
-
----
-
-### Trophies | جوایز گیت‌هاب
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ali-Tagipour&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7&row=2" />
-</p>
-
----
-
-### Connect With Me | ارتباط با من
+## <p align="center">🌐 Connect with Me | ارتباط با من</p>
 
 <p align="center">
   <a href="https://t.me/DevbyAT"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://instagram.com/devbyat"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ali-tagipour/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Ali-Tagipour"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:alitaghipour.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-9866b7e2-5c38-4e8e-9f94-8c05f32d12b0.gif" width="600" />
+  <a href="mailto:alitaghipour.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### Featured Projects | پروژه‌های برجسته
+## <p align="center">📊 GitHub Stats & Activity | آمار و فعالیت GitHub</p>
 
 <p align="center">
-  <strong>به زودی پروژه‌های اصلی اضافه خواهند شد — در حال تکمیل دموهای حرفه‌ای</strong>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/tzFjGxURDcjzVoTusV/giphy.gif" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Tagipour&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Tagipour&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=Ali-Tagipour&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Tagipour&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <br/>
+  <!-- Inline SVG Animation for Code Scroll -->
+  <svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+    <rect width="400" height="100" fill="black" />
+    <text x="200" y="50" font-family="monospace" font-size="20" fill="lime">
+      <animate attributeName="x" from="400" to="-400" dur="10s" repeatCount="indefinite" />
+      Coding... Developing... Innovating...
+    </text>
+  </svg>
 </p>
 
 ---
 
-### Favorite Quote | نقل قول مورد علاقه
+## <p align="center">✨ Badges & Achievements | نشان‌ها و دستاوردها</p>
 
 <p align="center">
-  <i>“First, solve the problem. Then, write the code.” – John Johnson</i><br>
-  <i>“اول مشکل را حل کن. بعد کد بزن.”</i>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-7c2e9c5e-2d4a-4e3a-9e3f-8f4e3b1f4e3a.gif" width="500" />
+  <img src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" alt="Happy Coder Achievement Animation" width="200" />
+</p>
+
+---
+
+## <p align="center">🏆 GitHub Trophies | جوایز GitHub</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ali-Tagipour&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+## <p align="center">🚀 Featured Projects | پروژه‌های برجسته</p>
+
+<p align="center">
+  - **Project 1**: ...
+  - **Project 2**: ...
+  - **Project 3**: ...
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18&height=180&section=footer&animation=twinkling" />
+  <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" alt="Pro Coder Projects Animation" width="200" />
+</p>
+
+---
+
+## <p align="center">✍️ Dev Quote | نقل قول برنامه‌نویس</p>
+
+<p align="center">
+  > "Simplicity is the soul of efficiency." – Austin Freeman
+  > "سادگی، روح کارایی است." – Austin Freeman
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" alt="Self Management Quote Animation" width="200" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Capsule" />
 </p>
