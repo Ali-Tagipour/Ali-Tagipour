@@ -13,16 +13,26 @@
   Computer Engineer • Full-Stack Developer • Software Architecture Enthusiast
 </p>
 
-<br>
+<p align="center">
+  I’m a Full-Stack Developer and Computer Engineer focused on building scalable, reliable, and user-friendly software.  
+  My goal is to create systems that are clean in architecture, high in performance, and pleasant in user experience.
+</p>
 
 <p align="center">
-  As a computer engineer specializing in full-stack development, I focus on designing and implementing scalable, maintainable, and secure software systems. My expertise encompasses Clean Architecture principles, Domain-Driven Design (DDD), SOLID principles, and advanced design patterns such as Factory, Repository, and Observer. I excel in API design using RESTful and GraphQL standards, database modeling with normalization techniques and ORM frameworks, and UI/UX engineering incorporating responsive design, accessibility standards (WCAG), and user behavior analytics.
+  من یک توسعه‌دهنده فول‌استک و مهندس کامپیوتر هستم که تمرکزم روی ساخت نرم‌افزارهای مقیاس‌پذیر، قابل‌اعتماد و کاربرپسند است.  
+  هدف من ایجاد سیستم‌هایی است که هم معماری تمیز داشته باشند، هم کارایی بالا و هم تجربه کاربری لذت‌بخش.
 </p>
 
 <br>
 
 <p align="center">
-  به عنوان مهندس کامپیوتر متخصص در توسعه فول‌استک، تمرکز من بر طراحی و پیاده‌سازی سیستم‌های نرم‌افزاری مقیاس‌پذیر، قابل نگهداری و امن است. تخصص من شامل اصول Clean Architecture، رویکرد Domain-Driven Design (DDD)، اصول SOLID، و الگوهای طراحی پیشرفته مانند Factory، Repository و Observer می‌شود. در طراحی API با استانداردهای RESTful و GraphQL، مدل‌سازی دیتابیس با تکنیک‌های نرمال‌سازی و فریم‌ورک‌های ORM، و مهندسی UI/UX با طراحی ریسپانسیو، استانداردهای دسترسی (WCAG) و تحلیل رفتار کاربر مهارت دارم.
+  Experienced in Clean Architecture, SOLID principles, and Design Patterns to build maintainable and flexible systems.  
+  Skilled in RESTful & GraphQL API design, database modeling with ORM, and responsive, modern UI/UX development.
+</p>
+
+<p align="center">
+  با اصول Clean Architecture، SOLID و الگوهای طراحی آشنایی عملی دارم و از آن‌ها برای ساخت سیستم‌های قابل نگهداری و توسعه‌پذیر استفاده می‌کنم.  
+  در طراحی API استاندارد (RESTful و GraphQL)، مدل‌سازی دیتابیس با ORM و توسعه رابط کاربری واکنش‌گرا و مدرن مهارت دارم.
 </p>
 
 <br>
@@ -32,27 +42,28 @@
 <br>
 
 <p align="center">
-  <strong>Core Competencies | مهارت‌های تخصصی</strong><br>
-  Software Architecture • Clean Code • SOLID Principles • Advanced Design Patterns • REST/GraphQL API Design • Relational/NoSQL Database Modeling • Responsive UI/UX Engineering • Performance Tuning • Security Best Practices
+  <strong>Core Skills | مهارت‌های تخصصی</strong><br>
+  Software Architecture • Clean Code • Design Patterns • API Design • Database Modeling • UI/UX Engineering • Performance Optimization • Security Principles
 </p>
 
 <br>
 
 <p align="center">
-  <strong>Technical Interests | حوزه‌های مورد علاقه</strong><br>
-  Distributed System Design • Algorithmic Performance Optimization • Cloud-Scalable Applications • Entity-Relationship Domain Modeling • Progressive Web App (PWA) Development
+  <strong>Interests | علاقه‌مندی‌ها</strong><br>
+  Scalable Applications • Distributed Systems • Domain Modeling • Cloud Development • Progressive Web Apps (PWA)
 </p>
 
 <br>
 
 <p align="center">
-  Passionate about transforming complex real-world challenges into efficient, scalable, and user-centered digital solutions through innovative engineering practices.
-  علاقه‌مند به تبدیل چالش‌های پیچیده واقعی به راهکارهای دیجیتالی کارآمد، مقیاس‌پذیر و کاربرمحور از طریق شیوه‌های مهندسی نوآورانه.
+  I believe great software should be technically strong, easy to scale, and enjoyable to use.  
+  باور دارم بهترین نرم‌افزارها، هم باید از نظر فنی قدرتمند باشند و هم تجربه‌ای ساده، سریع و لذت‌بخش برای کاربر ایجاد کنند.
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coding Vibe Animation" width="300" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coding Animation" width="300" />
 </p>
+
 
 ---
 
