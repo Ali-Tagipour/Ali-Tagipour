@@ -95,19 +95,27 @@
 ## <p align="center">📊 GitHub Stats & Activity | آمار و فعالیت GitHub</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Tagipour&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Tagipour&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com/?user=Ali-Tagipour&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Tagipour&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-  <br/>
-  <!-- Inline SVG Animation for Code Scroll -->
-  <svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
-    <rect width="400" height="100" fill="black" />
-    <text x="200" y="50" font-family="monospace" font-size="20" fill="lime">
-      <animate attributeName="x" from="400" to="-400" dur="10s" repeatCount="indefinite" />
-      Coding... Developing... Innovating...
-    </text>
-  </svg>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Tagipour&show_icons=true&theme=radical&count_private=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Tagipour&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00ff41&text_color=ffffff" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ali-Tagipour&theme=radical&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=00ff41&sideNums=00ff41&dates=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Tagipour&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=00ff41&area=true&hide_title=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ali-Tagipour&theme=radical&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_color=00ff41" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ali-Tagipour&theme=radical&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_color=00ff41" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ali-Tagipour&theme=radical&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_color=00ff41" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ali-Tagipour&theme=radical&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_color=00ff41" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216644056-4c4f7e3b-1f4e-4e3a-9e3f-8f4e3b1f4e3a.gif" width="800" alt="Matrix Code Rain Animation" />
 </p>
 
 ---
@@ -115,15 +123,15 @@
 ## <p align="center">✨ Badges & Achievements | نشان‌ها و دستاوردها</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-Master-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-Advanced-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-Proficient-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-Specialist-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-Expert-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-Advanced-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
 <p align="center">
@@ -157,7 +165,7 @@
 ## <p align="center">✍️ Dev Quote | نقل قول برنامه‌نویس</p>
 
 <p align="center">
-  > "Simplicity is the soul of efficiency." – Austin Freeman
+  > "Simplicity is the soul of efficiency." – Austin Freeman  
   > "سادگی، روح کارایی است." – Austin Freeman
 </p>
 
