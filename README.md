@@ -60,9 +60,6 @@
   آماده همکاری برای انجام پروژه‌های شما هستم.
 </p>
 
-<p align="center">
-  📧 Email | 💼 LinkedIn | 🧑‍💻 GitHub | 🌐 Portfolio
-</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coding Animation" width="300" />
