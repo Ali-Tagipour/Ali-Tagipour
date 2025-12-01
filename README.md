@@ -13,26 +13,16 @@
   Computer Engineer • Full-Stack Developer • Software Architecture Enthusiast
 </p>
 
-<p align="center">
-  I’m a Full-Stack Developer and Computer Engineer skilled in building modern web and mobile applications.  
-  I turn ideas into scalable, reliable and user-focused digital products.
-</p>
+<br>
 
 <p align="center">
-  من یک توسعه‌دهنده فول‌استک و مهندس کامپیوتر هستم که در طراحی و ساخت وب‌سایت‌ها و اپلیکیشن‌های موبایل حرفه‌ای تخصص دارم.  
-  هدفم تبدیل ایده‌ها به محصولاتی مقیاس‌پذیر، قابل اعتماد و کاربرپسند است.
+  As a computer engineer specializing in full-stack development, I focus on designing and implementing scalable, maintainable, and secure software systems. My expertise encompasses Clean Architecture principles, Domain-Driven Design (DDD), SOLID principles, and advanced design patterns such as Factory, Repository, and Observer. I excel in API design using RESTful and GraphQL standards, database modeling with normalization techniques and ORM frameworks, and UI/UX engineering incorporating responsive design, accessibility standards (WCAG), and user behavior analytics.
 </p>
 
 <br>
 
 <p align="center">
-  Experienced with ASP.NET Core, C#, Python, Django, Java, and Flutter for developing both web and mobile apps.  
-  Skilled in RESTful API design, database modeling with SQL/NoSQL, and building responsive and modern UI/UX.
-</p>
-
-<p align="center">
-  در توسعه وب و موبایل با تکنولوژی‌هایی مثل ASP.NET Core، C#، Python، Django، Java و Flutter تجربه عملی دارم.  
-  در طراحی API، مدل‌سازی دیتابیس (SQL و NoSQL) و ساخت رابط کاربری واکنش‌گرا و مدرن مهارت دارم.
+  به عنوان مهندس کامپیوتر متخصص در توسعه فول‌استک، تمرکز من بر طراحی و پیاده‌سازی سیستم‌های نرم‌افزاری مقیاس‌پذیر، قابل نگهداری و امن است. تخصص من شامل اصول Clean Architecture، رویکرد Domain-Driven Design (DDD)، اصول SOLID، و الگوهای طراحی پیشرفته مانند Factory، Repository و Observer می‌شود. در طراحی API با استانداردهای RESTful و GraphQL، مدل‌سازی دیتابیس با تکنیک‌های نرمال‌سازی و فریم‌ورک‌های ORM، و مهندسی UI/UX با طراحی ریسپانسیو، استانداردهای دسترسی (WCAG) و تحلیل رفتار کاربر مهارت دارم.
 </p>
 
 <br>
@@ -42,30 +32,27 @@
 <br>
 
 <p align="center">
-  <strong>Core Skills | مهارت‌های تخصصی</strong><br>
-  Web & Mobile Development • ASP.NET Core • Django • C# • Python • Java • Flutter • API Design • SQL/NoSQL Databases • Responsive UI/UX • Clean Architecture
+  <strong>Core Competencies | مهارت‌های تخصصی</strong><br>
+  Software Architecture • Clean Code • SOLID Principles • Advanced Design Patterns • REST/GraphQL API Design • Relational/NoSQL Database Modeling • Responsive UI/UX Engineering • Performance Tuning • Security Best Practices
 </p>
 
 <br>
 
 <p align="center">
-  <strong>Interests | علاقه‌مندی‌ها</strong><br>
-  Mobile App Development • Scalable Web Applications • Cloud-Based Solutions • Domain Modeling • Modern UI/UX Design
+  <strong>Technical Interests | حوزه‌های مورد علاقه</strong><br>
+  Distributed System Design • Algorithmic Performance Optimization • Cloud-Scalable Applications • Entity-Relationship Domain Modeling • Progressive Web App (PWA) Development
 </p>
 
 <br>
 
 <p align="center">
-  Ready to collaborate on your next project.  
-  آماده همکاری برای انجام پروژه‌های شما هستم.
+  Passionate about transforming complex real-world challenges into efficient, scalable, and user-centered digital solutions through innovative engineering practices.
+  علاقه‌مند به تبدیل چالش‌های پیچیده واقعی به راهکارهای دیجیتالی کارآمد، مقیاس‌پذیر و کاربرمحور از طریق شیوه‌های مهندسی نوآورانه.
 </p>
-
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coding Animation" width="300" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coding Vibe Animation" width="300" />
 </p>
-
-
 
 ---
 
@@ -101,6 +88,7 @@
   <a href="https://www.linkedin.com/in/ali-tagipour/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Ali-Tagipour"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:alitaghipour.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://coffeebede.com/ali_tagipour"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=coffee&logoColor=white" alt="Buy Me a Coffee" /></a>
 </p>
 
 ---
@@ -178,7 +166,7 @@
 ## <p align="center">✍️ Dev Quote | نقل قول برنامه‌نویس</p>
 
 <p align="center">
-  > "Simplicity is the soul of efficiency." – Austin Freeman  
+  > "Simplicity is the soul of efficiency." – Austin Freeman
   > "سادگی، روح کارایی است." – Austin Freeman
 </p>
 
